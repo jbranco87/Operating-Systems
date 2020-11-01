@@ -1,3 +1,6 @@
 Mac Operating systems are basically a manager for your computer. It processes power, and manages the storage. 
 It is responsible for managing the memory on the computer. The operating system allows programs to run on the computer.
 It is responsible to allocate resources to complete the task.
+
+Another function of the operating system is controlling things. The OS controls devices. Devices like disk drives and printers are controlled by the Os. 
+"Never trust a computer, you can't throw out a window". 
