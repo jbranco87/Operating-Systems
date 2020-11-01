@@ -1,0 +1,3 @@
+Mac Operating systems are basically a manager for your computer. It processes power, and manages the storage. 
+It is responsible for managing the memory on the computer. The operating system allows programs to run on the computer.
+It is responsible to allocate resources to complete the task.
