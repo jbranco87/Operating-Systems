@@ -4,3 +4,5 @@ It is responsible to allocate resources to complete the task.
 
 Another function of the operating system is controlling things. The OS controls devices. Devices like disk drives and printers are controlled by the Os. 
 "Never trust a computer, you can't throw out a window". 
+
+ The operating system uses password protection to protect user data. It also prevents unauthorized access to programs and user data. The operating system controls overall system performance.  "A computer once beat me at chess, but it was no match for me at kick boxing". 
